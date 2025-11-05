@@ -1,0 +1,4 @@
+# 请在此文件中添加 session
+# 每行一个 session，或者多个 session 用空格/换行分隔
+# session 格式: .eJxxx...
+
